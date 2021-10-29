@@ -5,7 +5,7 @@ import jgl.GLCanvas;
 
 import java.awt.*;
 import java.io.IOException;
-
+//hgfdgfdhgfdhgfdgfffffffffff
 public class Bai3_robot extends GLCanvas {
 
     private static int shoulder = 0, elbow = 0;

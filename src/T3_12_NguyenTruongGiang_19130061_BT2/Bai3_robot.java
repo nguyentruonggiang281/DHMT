@@ -178,5 +178,5 @@ public class Bai3_robot extends GLCanvas {
         mainFrame.add(mainCanvas);
         mainFrame.setVisible(true);
     }
-
+//vaiiiiiiiiiiiiiiiiiiiiiiiiii
 }
